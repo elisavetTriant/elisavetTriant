@@ -41,8 +41,6 @@ Custom database, custom CMS, or your own design, handcrafted with :heart:
 
 >Helping businesses, webmasters, and individuals establish a successful Web Presence from 2003 to date, having worked on a variety of projects ranging from small websites to medium scaled web applications.
 
-<img src="https://elissavet.me/img/product-cicles-forlinkedin.png" width="350" height="350" />
-
 I am experienced on all phases of the product cycle, as depicted in the image you see: idea, concept and  design, analysis and development as well as launch and promotion of the final product. Hands on experience in Information Architecture and Database Design, Web Development and Design, popular Open Source CMS Theming and Templating, User Support, Communications Assistance and Digital Marketing.
 
 ## Welcome to _your_ next website!
