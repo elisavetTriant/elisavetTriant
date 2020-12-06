@@ -5,7 +5,6 @@ IT Professional / Multi-disciplinary Web Developer    / All Things Web / Lifelon
 * [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
 * [Twitter Profile](https://twitter.com/EliTriant "Twitter Profile")
 * [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
-* [GitHub Profile](https://github.com/elisavetTriant/ "GitHub Profile")
 
 ## Who I am
 
