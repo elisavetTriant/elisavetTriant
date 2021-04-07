@@ -1,7 +1,9 @@
 # Hello! :wave: <br>This is Elissavet Triantafyllopoulou.    
 IT Professional / Multi-disciplinary Web Developer / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
 
-> Scroll down to take a look at my pinned repositories to see my latest work!
+## Latest work
+
+For my latest work, scroll down to take a look at my pinned repositories!
 
 ## Who I am
 
