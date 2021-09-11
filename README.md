@@ -1,10 +1,6 @@
 # Hello! :wave: <br>This is Elissavet Triantafyllopoulou.    
 IT Professional / Multi-disciplinary Web Developer / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
 
-## Latest work
-
-For my latest work, scroll down to take a look at my pinned repositories!
-
 ## Who I am
 
 ### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
@@ -21,3 +17,7 @@ I am an avid doodler, a dreamer and an INFP among a gazillion other things.
 * [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
 * [Twitter Profile](https://twitter.com/EliTriant "Twitter Profile")
 * [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
+
+## Latest work
+
+For my latest work, take a look at my pinned repositories!
