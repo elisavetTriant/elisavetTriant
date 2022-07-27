@@ -5,7 +5,7 @@ IT Professional / Multi-disciplinary Web Developer / All Things Web / Lifelong L
 
 ### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
 
-> I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
+> I've been online since 1999 and worked as a web developer and designer since 2003.
 
 I am an End-to-End Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
 
@@ -20,4 +20,4 @@ I am an avid doodler, a dreamer and an INFP among a gazillion other things.
 
 ## Latest work
 
-For my latest work, take a look at my pinned repositories!
+For work samples, take a look at my pinned repositories!
