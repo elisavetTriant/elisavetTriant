@@ -18,6 +18,6 @@ I am an avid doodler, a dreamer and an INFP among a gazillion other things.
 * [Twitter Profile](https://twitter.com/EliTriant "Twitter Profile")
 * [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
 
-## Latest work
+## Interested in modern front-end web development?
 
-For work samples, take a look at my pinned repositories!
+Take a look at my pinned repositories:
