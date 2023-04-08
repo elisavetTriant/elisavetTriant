@@ -15,7 +15,6 @@ I am an avid doodler, a dreamer and an INFP among a gazillion other things.
 
 * [Personal Website](https://elissavet.me "Personal Website")
 * [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
-* [Twitter Profile](https://twitter.com/EliTriant "Twitter Profile")
 * [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
 
 ## Interested in modern front-end web development?
