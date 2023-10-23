@@ -1,22 +1,18 @@
 # Hello! :wave: <br>This is Elissavet Triantafyllopoulou.    
-IT Professional / Multi-disciplinary Web Developer / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
+IT Professional / Multi-disciplinary Web Developer / Lifelong Learner
 
 ## Who I am
 
-### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
+### Hello there! My name is Elissavet, Ellie for short.
 
 > I've been online since 1999 and worked as a web developer and designer since 2003.
 
-I am an End-to-End Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
+I am an end-to-end Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
 
-I am an avid doodler, a dreamer and an INFP among a gazillion other things.
+I am an avid crocheter, a dreamer and an INFP among a gazillion other things.
 
-## Find me also:
+## Find me:
 
 * [Personal Website](https://elissavet.me "Personal Website")
 * [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
 * [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
-
-## Interested in modern front-end web development?
-
-Take a look at my pinned repositories:
