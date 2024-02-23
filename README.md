@@ -13,6 +13,6 @@ I am an avid crocheter, a dreamer and an INFP among a gazillion other things.
 
 ## Find me:
 
-* [Personal Website](https://elissavet.me "Personal Website")
+* [Personal Website](https://elissavet.dev "Personal Website")
 * [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
 * [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
